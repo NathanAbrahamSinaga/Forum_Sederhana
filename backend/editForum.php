@@ -27,7 +27,7 @@ if (isset($_GET['id'])) {
 ?>
 
 <div class="max-w-2xl mx-auto">
-    <h1 class="text-3xl font-bold mb-6">Edit Post</h1>
+    <h1 class="text-3xl font-bold mb-6">Edit Forum</h1>
     
     <form method="POST" class="bg-white p-6 rounded-lg shadow">
         <input type="hidden" name="id" value="<?php echo $post['id']; ?>">
