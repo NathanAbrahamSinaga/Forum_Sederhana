@@ -9,7 +9,7 @@
 <body class="bg-gray-100">
     <nav class="bg-white shadow-lg mb-6">
         <div class="container mx-auto px-4 py-4">
-            <a href="/" class="text-xl font-bold text-gray-800">Simple Forum</a>
+            <a href="/" class="text-xl font-bold text-gray-800">Forum Sederhana</a>
         </div>
     </nav>
     <div class="container mx-auto px-4">

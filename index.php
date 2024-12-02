@@ -7,7 +7,7 @@ $posts = $stmt->fetchAll(PDO::FETCH_ASSOC);
 ?>
 
 <div class="mb-6">
-    <h1 class="text-3xl font-bold mb-4">Forum Discussions</h1>
+    <h1 class="text-3xl font-bold mb-4">Diskusi Forum</h1>
     <a href="pages/forum.php" class="inline-block bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">Create New Post</a>
 </div>
 
