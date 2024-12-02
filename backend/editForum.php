@@ -46,7 +46,7 @@ if (isset($_GET['id'])) {
         
         <div class="flex gap-2">
             <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
-                Update Post
+                Update
             </button>
             <a href="../index.php" class="bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600">
                 Cancel
